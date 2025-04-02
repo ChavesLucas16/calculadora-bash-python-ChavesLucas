@@ -11,7 +11,7 @@
 ## Para a execução do arquivo calculadora.sh é necessario inicializar seu Prompt de controle e utilizar os comando: ##
 -  cd /caminho/da/pasta
 
-##  torne o arquivo executavel com o comando: ##
+## Torne o arquivo executavel com o comando: ##
 -  chmod +x calculadora.sh
 
 ## Execute o arquivo com o comando: ##
